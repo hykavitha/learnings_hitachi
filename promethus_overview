@@ -1,0 +1,21 @@
+
+Overview: 
+https://prometheus.io/docs/introduction/overview/
+
+architecture
+
+https://prometheus.io/assets/architecture-cb2ada1ece6.png
+
+
+Many componenets 
+https://prometheus.io/assets/architecture-cb2ada1ece6.png
+
+
+Integrate with Hbase and prometehus using kmx exporter
+https://blog.godatadriven.com/hbase-prometheus-monitoring
+
+
+JMX exporter 
+https://github.com/prometheus/jmx_exporter
+
+
